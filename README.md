@@ -1,6 +1,6 @@
 # online_bus_booking_app
 
-Making travelling simple by adding features that makes it easier for the passenger to book a bus.
+Making travelling simple by adding features that makes it easier for the passenger to book a bus ticket.
 
 ## Getting Started
 
